@@ -45,9 +45,3 @@ Este proyecto implementa un sistema de gestión de pedidos y cobros para el rest
 
 - **`CambiarPedidoDeMozo`**: Registra automáticamente en `Reasignaciones` los cambios de mozos asignados a pedidos.
 
-## 📦 Cómo Probar el Código
-
-1. Crea una base de datos en tu entorno MySQL con:
-   ```sql
-   CREATE DATABASE Pedido_mesa;
-   USE Pedido_mesa;
